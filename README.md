@@ -97,7 +97,7 @@ This will launch a **Gradio UI**, allowing users to enter a movie title and rece
 
 ### Gradio Interface
 
-![Netflix Recommendation UI](https://huggingface.co/spaces/Antbap23/Netflix-Recommendation-System)
+https://huggingface.co/spaces/Antbap23/Netflix-Recommendation-System
 
 ### Sample Recommendations Output
 
