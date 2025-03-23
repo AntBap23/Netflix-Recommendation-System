@@ -99,9 +99,6 @@ This will launch a **Gradio UI**, allowing users to enter a movie title and rece
 
 https://huggingface.co/spaces/Antbap23/Netflix-Recommendation-System
 
-### Sample Recommendations Output
-
-![Sample Output](screenshots/sample_output.png)
 
 ## 🤝 Contributing
 
