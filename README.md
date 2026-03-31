@@ -8,6 +8,12 @@ It was rebuilt from an earlier Gradio prototype into a cleaner, more polished pr
 - a richer recommendation model
 - a more playful, cinematic interface
 
+## Live Demo
+
+Try the deployed app here:
+
+[Netflix Recommender Studio](https://netflix-movie-picker.streamlit.app/)
+
 ## Features
 
 - Streamlit interface designed to feel fun and interactive
